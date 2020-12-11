@@ -1,0 +1,15 @@
+{
+    "name": "bgonzalezj/test-composer-package",
+    "type": "library",
+    "description": "Description",
+    "keywords": [],
+    "homepage": "https://bastiangonzalez.com",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Bastian Gonzalez",
+            "email": "bgonzalezjara@gmail.com",
+            "role": "Developer"
+        }
+    ],
+}
