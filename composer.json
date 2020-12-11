@@ -12,5 +12,8 @@
             "email": "bgonzalezjara@gmail.com",
             "role": "Developer"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-4": {"BgonzalezJ\\": "src/"}
+    }
 }
