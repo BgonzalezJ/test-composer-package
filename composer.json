@@ -1,5 +1,6 @@
 {
     "name": "bgonzalezj/test-composer-package",
+    "version": "1.0.0",
     "type": "library",
     "description": "Description",
     "keywords": [],
@@ -11,5 +12,5 @@
             "email": "bgonzalezjara@gmail.com",
             "role": "Developer"
         }
-    ],
+    ]
 }
