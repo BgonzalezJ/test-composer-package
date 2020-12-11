@@ -14,8 +14,8 @@
         }
     ],
     "autoload": {
-        "psr-4": {
-            "BgonzalezJ\\Libraries\\": "src/Libraries"
+        "psr-0": {
+            "BgonzalezJ\\": "src/"
         }
     }
 }
